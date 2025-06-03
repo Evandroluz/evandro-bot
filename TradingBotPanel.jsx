@@ -1,0 +1,1 @@
+// Painel React EVANDRO TRADING BOT
